@@ -1,0 +1,33 @@
+C:\Users\Sashintha Tennakoon\Desktop\Wheel Of Fortune\Wheel Of Fortune\bin\Debug\Wheel Of Fortune.exe.config
+C:\Users\Sashintha Tennakoon\Desktop\Wheel Of Fortune\Wheel Of Fortune\bin\Debug\Wheel Of Fortune.exe
+C:\Users\Sashintha Tennakoon\Desktop\Wheel Of Fortune\Wheel Of Fortune\bin\Debug\Wheel Of Fortune.pdb
+C:\Users\Sashintha Tennakoon\Desktop\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.csprojResolveAssemblyReference.cache
+C:\Users\Sashintha Tennakoon\Desktop\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel_Of_Fortune.Form1.resources
+C:\Users\Sashintha Tennakoon\Desktop\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel_Of_Fortune.Form2.resources
+C:\Users\Sashintha Tennakoon\Desktop\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel_Of_Fortune.Properties.Resources.resources
+C:\Users\Sashintha Tennakoon\Desktop\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.csproj.GenerateResource.Cache
+C:\Users\Sashintha Tennakoon\Desktop\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.csproj.CoreCompileInputs.cache
+C:\Users\Sashintha Tennakoon\Desktop\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.exe
+C:\Users\Sashintha Tennakoon\Desktop\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.pdb
+D:\Wheel Of Fortune\Wheel Of Fortune\bin\Debug\Wheel Of Fortune.exe.config
+D:\Wheel Of Fortune\Wheel Of Fortune\bin\Debug\Wheel Of Fortune.exe
+D:\Wheel Of Fortune\Wheel Of Fortune\bin\Debug\Wheel Of Fortune.pdb
+D:\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.csprojResolveAssemblyReference.cache
+D:\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel_Of_Fortune.Form1.resources
+D:\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel_Of_Fortune.Form2.resources
+D:\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel_Of_Fortune.Properties.Resources.resources
+D:\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.csproj.GenerateResource.Cache
+D:\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.csproj.CoreCompileInputs.cache
+D:\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.exe
+D:\Wheel Of Fortune\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.pdb
+D:\Wheel Of Fortune - Copy\Wheel Of Fortune\bin\Debug\Wheel Of Fortune.exe.config
+D:\Wheel Of Fortune - Copy\Wheel Of Fortune\bin\Debug\Wheel Of Fortune.exe
+D:\Wheel Of Fortune - Copy\Wheel Of Fortune\bin\Debug\Wheel Of Fortune.pdb
+D:\Wheel Of Fortune - Copy\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.csprojResolveAssemblyReference.cache
+D:\Wheel Of Fortune - Copy\Wheel Of Fortune\obj\Debug\Wheel_Of_Fortune.Form1.resources
+D:\Wheel Of Fortune - Copy\Wheel Of Fortune\obj\Debug\Wheel_Of_Fortune.Form2.resources
+D:\Wheel Of Fortune - Copy\Wheel Of Fortune\obj\Debug\Wheel_Of_Fortune.Properties.Resources.resources
+D:\Wheel Of Fortune - Copy\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.csproj.GenerateResource.Cache
+D:\Wheel Of Fortune - Copy\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.csproj.CoreCompileInputs.cache
+D:\Wheel Of Fortune - Copy\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.exe
+D:\Wheel Of Fortune - Copy\Wheel Of Fortune\obj\Debug\Wheel Of Fortune.pdb
